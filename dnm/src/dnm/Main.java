@@ -242,8 +242,4 @@ public class Main {
 	}
 }
 
-//Hocam, algoritma doğru bir şekilde çalışıyor. txt file okuyup algoritmadan geçirip txt file olarak çıkarabiliyor 10000x10000 veride 1 saniye civarında çözüyor. 
-//Ancak şu an saat 23.44 ve sürem bitti maalesef. 3.3 Java Project Outlinedaki istenilenleri yapmaya sürem yetmedi.
-//
-
 
